@@ -1,10 +1,14 @@
+
 >>>>
+
+---------------------------------
+
 Amol pande--changed to master branch
 
 Amol pande -- changed after conflict
 changed to branch pande
 --------------------------------------
 changed for rebase by team mate on master
-////
 adding new line for master by team mate
 
+--------------------Fixed Conflict-------------------------------
