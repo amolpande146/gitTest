@@ -1,3 +1,8 @@
 file1 text data
+
 Pushing test data to Remote Repository -1
-Change at reomote to test conflict while push/pull and rebase
+
+Change at remote to test conflict while push/pull and rebase
+
+Change at local to test conflict at file push
+
