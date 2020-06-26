@@ -12,3 +12,5 @@ changed for rebase by team mate on master
 adding new line for master by team mate
 
 --------------------Fixed Conflict-------------------------------
+
+changes for stash
